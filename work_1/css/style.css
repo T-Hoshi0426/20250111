@@ -1,0 +1,95 @@
+
+header {
+    width: 80%;
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+
+.menu_list {
+    margin-right: 5px;
+}
+
+main {
+    background-color: black;
+    text-align: center;
+}
+
+.main_img_box {
+}
+
+.main_img_box >img {
+}
+.yoko {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.image1 {
+    width: 300px;
+    background-color: black;
+    padding: 10px;
+}
+
+.headset {
+    width: 100%;
+}
+
+.headset>img {
+    width: 100%;
+}
+
+.image_title1 {
+    width: 100%;
+}
+
+.image_title1>p {
+    text-align: center;
+}
+.image2 {
+    width: 300px;
+    background-color: black;
+    padding: 10px;
+}
+
+.keyboard {
+    width: 100%;
+}
+
+.keyboard>img {
+    width: 100%;
+}
+
+.image_title2 {
+    width: 100%;
+}
+
+.image_title2>p {
+    text-align: center;
+}
+.image3 {
+    width: 300px;
+    background-color: black;
+    padding: 10px;
+}
+
+.mouse {
+    width: 100%;
+}
+
+.mouse>img {
+    width: 100%;
+}
+
+.image_title3 {
+    width: 100%;
+}
+
+.image_title3>p {
+    text-align: center;
+}

@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+.all
+{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.yoko {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.card {
+    width: 300px;
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.card_img {
+    width: 100%;
+}
+
+.card_img>img {
+    width: 100%;
+}
+
+.card_title {
+    width: 100%;
+}
+
+.card_title>p {
+    text-align: center;
+}
+
+.card2 {
+    width: 300px;
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.card3 {
+    width: 300px;
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.card4 {
+    text-align: center;
+    width: 100%;
+    background-color: burlywood;
+    padding: 10px;
+}
