@@ -21,9 +21,11 @@ main {
 }
 
 .main_img_box {
+    background-color: black;
 }
 
 .main_img_box >img {
+    background-color: black;
 }
 .yoko {
     display: flex;
